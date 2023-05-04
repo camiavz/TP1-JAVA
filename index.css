@@ -1,0 +1,81 @@
+.itemsNavbar{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 230px;
+}
+
+.imagenNavbar{
+    margin-left: 50px;
+}
+
+.botonTicket{
+    color: green;
+}
+
+.imgBa{
+     
+    -webkit-filter: contrast(200%);
+    filter: contrast(200%); 
+    filter: brightness(40%);
+}
+
+.imagenBsAs{
+    position: relative;
+    display: inline-block;
+}
+
+h4{
+    color: white;
+    position:absolute;
+    top: 120px;
+    right: 115px;
+}
+
+.textoBsAs{
+    font-size: 13px;
+    color: white;
+    position: relative;
+    top:-250px;
+    left: 860px;
+    width: 400px;   
+}
+
+.botonesBsAs{
+    position: absolute;
+    top: 270px;
+    right: 115px;
+}
+
+.tituloCards{
+    width: 100px;
+    margin-left: 600px;
+    margin-top: -100px;
+    
+  
+}
+
+.cardsIt{
+    margin-left: 150px;
+    margin-bottom: 50px;
+    
+    
+}
+
+.card-body2{
+    margin-left: 700px;
+    margin-top: -400px;
+    
+}
+
+.form{
+    width: 650px;
+    margin-left: 350px;
+}
+
+.botonSubmit{
+    width: 650px;
+}
+
+.footer{
+    background-color: #514F59;
+}
